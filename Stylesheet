@@ -1,0 +1,29 @@
+
+.center {
+  text-align: center;
+  background-color: #444444;
+  padding: 1px 1px 1px 1px;
+  font-family: arial;
+  color: #ffffff;
+}
+button {
+    padding: 30px, 70px;
+    border: none;
+    background-color: #297e96;
+    font-family: arial;
+    font-weight: 0;
+    font-size: 18px;
+    color: #ffffff;
+    border-radius: 0;
+    cursor: pointer; 
+    animation: animate 0s linear infinity;
+    margin-top: 50px;
+}
+.center2 {
+  text-align: center;
+  font-family: arial;
+  max-width: 700px;  
+}
+.center3 {
+    max-width: 700px;
+}
